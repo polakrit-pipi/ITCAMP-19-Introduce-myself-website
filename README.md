@@ -1,1 +1,2 @@
-# วิธีการใช้งานเข้า folder และเลือกเปิดไฟล์ index.html ครับ
+# How to use?
+## Use git clone to clone this folder, and then open the index.html file.
